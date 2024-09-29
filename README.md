@@ -1,4 +1,4 @@
-# sensorstrip
+# solenoid-trigger
 
 ![Image of PCB](resources/board-assembled.jpg)
 
